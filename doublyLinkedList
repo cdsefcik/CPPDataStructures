@@ -1,5 +1,6 @@
-
-
+/*
+Linked List from the C++ Data Structures & Algorithms + LEETCODE course taught by Scott Barrett.
+*/
 #include<iostream>
 using namespace std;
 
