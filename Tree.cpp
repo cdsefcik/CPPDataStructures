@@ -1,3 +1,16 @@
+/*
+Author: This is from the Data Structures and Algorithms C++: Zero to Mastery in 2026
+
+Program Use: Implement a tree
+
+Development Notes:
+
+How to run program:
+In the main, update the values to push etc, compile and run.
+
+*/
+
+
 #include<iostream>
 #include<vector>
 #include<queue>
